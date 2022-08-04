@@ -1,0 +1,34 @@
+h2{
+    text-align: center;
+}
+#par1{
+    color: blue;
+    text-align: right;
+
+    
+}
+
+#par2{
+
+    color: rgba(255, 0, 0, 1);
+    text-align: left;
+}
+
+#par3{
+    color: #f466d1;
+    text-align: justify;
+
+    
+}
+
+#par4{
+
+    color: yellow;
+}
+
+#par5{
+
+
+    text-decoration: underline solid red;
+}
+#par5::first-line 
